@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Himanshu Tiwari
-- 👀 I’m interested in Backend developer
+- 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning new Technologies
 - 📫 How to reach me htiwari578@gmail.com
 
