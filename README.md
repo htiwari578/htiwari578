@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Himanshu Tiwari
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Blockchain Technologies
+- 🌱 I’m currently learning FullStack Development
+- 
 - 📫 How to reach me htiwari578@gmail.com
 
 <!---
