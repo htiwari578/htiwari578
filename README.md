@@ -1,8 +1,6 @@
-👋 Hi there! I'm Himanshu Tiwari, a Passionate Backend Developer
+👋 Hi there! I'm Himanshu Tiwari, a Passionate Backend Developer Specialized in building scalable and efficient backend systems.
 
-Specialized in building scalable and efficient backend systems.
-Currently exploring the cutting-edge world of Blockchain Technology.
-Always on the lookout for exciting opportunities to collaborate and grow!
+🎯Currently exploring the cutting-edge world of Blockchain Technology.
 
 📧 Reach me at: htiwari578@gmail.com
 <!---
